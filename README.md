@@ -18,7 +18,7 @@ npm run dev
 
 ```
 Build command:   npm run build
-Publish directory: dist
+Publish directory: build
 ```
 
 The built files will appear in the `dist/` folder.
